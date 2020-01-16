@@ -37,6 +37,7 @@ img {
     border: 3px solid black;
     padding: 15px;
     margin: 20px;
+    max-width: 560px;
 }
 
 </style>
